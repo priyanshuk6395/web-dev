@@ -1,2 +1,4 @@
 # web-dev
-Create for apple
+Repository for College project
+Author-Priyanshu
+
